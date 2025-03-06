@@ -1,0 +1,19 @@
+{
+    "Java Boilerplate": {
+        "prefix": "asd",
+        "body": [
+            "import java.util.*;",
+			"",
+            "public class ${1:Main} {",
+            "    public static void main(String[] args) {",
+			"		Scanner sc = new Scanner(System.in);",
+			"",
+            "        System.out.println(\"Hello, World!\");",
+			"",
+			"",
+            "    }",
+            "}"
+        ],
+        "description": "A boilerplate for a Java program with a main method."
+    }
+}

@@ -1,6 +1,9 @@
 
 # JavaDSA-Odyssey 🚀
 
+![image](https://github.com/user-attachments/assets/2bbcf6eb-92b1-4890-ba2c-a0d48e288b34)
+
+
 Welcome to **JavaDSA-Odyssey**, a repository documenting my journey of mastering Data Structures and Algorithms (DSA) using Java. Every day, I’ll be practicing and solving DSA problems, and all the code and insights from my journey will be shared here.
 
 ---
